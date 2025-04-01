@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a passionate software developer and a student at 42 School, dedicated to deepening my expertise in system programming, backend development, and high-performance computing.<br><br>🔹 Technical Skills:<br><br>Low-level programming: C & C++ (performance, memory management, system programming)<br><br>Backend development: Go, Python, PHP<br><br>DevOps & system architecture: Infrastructure, automation, and scalability<br><br>🔹 Current Objectives:<br><br>Building a strong GitHub portfolio with impactful projects<br><br>Mastering C, C++, and performance optimization<br><br>Exploring DevOps and system-level development</p>
+<p align="left">I’m a passionate software developer and a student at 42 School, focusing on system programming, <br>backend development, and high-performance computing.<br><br>🔹 Current Objectives:<br><br>Building a strong GitHub portfolio with impactful projects<br><br>Mastering C, C++, and performance optimization<br><br>Exploring DevOps and system-level development</p>
 
 ###
 
