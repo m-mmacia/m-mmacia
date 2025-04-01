@@ -1,9 +1,3 @@
-<div align="left">
-  <img height="200" src="https://i.gifer.com/7NBZ.gif"  />
-</div>
-
-###
-
 <h1 align="left">Hi there! 👋</h1>
 
 ###
