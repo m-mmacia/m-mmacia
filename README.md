@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a passionate software developer and a student at 42 School, focusing on system programming, <br>backend development, and high-performance computing.<br><br>🔹 Current Objectives:<br><br>Building a strong GitHub portfolio with impactful projects<br><br>Mastering C, C++, and performance optimization<br><br>Exploring DevOps and system-level development</p>
+<p align="left">I’m a passionate software developer and a student at 42 School, focusing on system programming, <br>backend development, and high-performance computing.<br><br>📍​ Current Objectives:<br><br>• Building a strong GitHub portfolio with impactful projects<br><br>• Mastering C, C++, and performance optimization<br><br>• Exploring DevOps and system-level development</p>
 
 ###
 
