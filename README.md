@@ -54,6 +54,5 @@
 
 <h1 align="left">Certifications</h1>
 
-- Google Analytics for Beginners - Google (2025)
-
+- [Google Analytics for Beginners - Google (2025)](https://skillshop.credential.net/028f29d2-3ee5-4cdb-9b0d-3c43b281aacf#acc.lR6FaZzw)
 ###
