@@ -52,11 +52,8 @@
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
 </div>
 
-<p align="left"></p>
+<h1 align="left">Certifications</h1>
 
-###
-
-
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/f600e400-7f86-420d-9636-2a469d23a0c1" />
+- Google Analytics for Beginners - Google (2025)
 
 ###
