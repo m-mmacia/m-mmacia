@@ -53,6 +53,6 @@
 </div>
 
 
-<img width="611" alt="image" src="https://github.com/user-attachments/assets/f600e400-7f86-420d-9636-2a469d23a0c1" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f600e400-7f86-420d-9636-2a469d23a0c1" />
 
 ###
